@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gerald
+# Hi! I'm Gerald
 
 ### A Computer Science student at INSA Lyon
 
