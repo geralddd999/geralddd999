@@ -2,11 +2,11 @@
 
 ### A Computer Science student at INSA Lyon
 
-- 🔭 I'm currently working on **Vital Music Player, a C++/QT-QML high performance player**
+- I'm currently working on **Vital, a C++/QT-QML high performance player**
 
-- 🌱 I'm currently learning **Java, Javascript**
+- I'm currently learning **Java, Javascript**
 
-- ⚡ Fun fact **I like music and linux, currently using NIxOS (dotfiles repo below)**
+- I'm a music enjoyer (would like to produce it), and also **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
