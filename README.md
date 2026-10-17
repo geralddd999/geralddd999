@@ -1,19 +1,38 @@
-# Hi! I'm Gerald
+ # Hi, I'm Gerald
+ 
+Computer Science and Engineering student at **INSA Lyon**
+ 
+---
+ **[LinkedIn](www.linkedin.com/in/geraldchambi)** | **[Email](mailto:chambigerald@hotmail.com)**
+## About Me
+ 
+I'm a fourth-year Computer Science engineering student at **INSA Lyon**.
+ 
+What I enjoy most:
+ 
+- **Machine Learning & AI**: idk what to put here vro 
+- **Low level programming**: the granular control of software over hardware.
+- **Computer Vision**: allowing computers to take decisions based on the information they see from the real world.
 
-### A Computer Science student at INSA Lyon
 
-- I'm currently working on **Vital, a C++/QT-QML high performance player**
+---
+## Tech and Tools
+ 
+```
+Languages    C++ , C , Python , Rust , Java
+AI / Vision  PyTorch , OpenCV , Numpy , Federated Learning , CNN
+Systems      Computer & OS fundamentals , Multithreading & Async
+Tools         Git (CI/CD) , CMake , uv , Docker , pytest
+Used         Javascript , (Node.js + React) , Flask , Django
+```
+ 
+---
+ 
+## Goals
 
-- I'm currently learning **Java, Javascript**
+I'm looking to start building projects that combine embedded software and computer vision, but im also:
 
-- I'm a music enjoyer (would like to produce it), and also **
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/geralddd999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="geralddd999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/geraldchambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geraldchambi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a></p>
-
+Looking for a **4 - month internship starting May 2027** in the areas of **Machine Learning, Software Engineering**, ideally around embedded systems or computer vision.
+ 
+---
+ 
